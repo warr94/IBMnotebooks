@@ -1,2 +1,2 @@
 # IBMnotebooks
-practiva de los notebooks de IBM
+practica de los notebooks de IBM
